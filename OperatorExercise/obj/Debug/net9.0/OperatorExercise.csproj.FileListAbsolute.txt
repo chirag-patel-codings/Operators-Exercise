@@ -1,0 +1,15 @@
+E:\Chirag\Learning\TrueCoders\repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.exe
+E:\Chirag\Learning\TrueCoders\repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.deps.json
+E:\Chirag\Learning\TrueCoders\repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.runtimeconfig.json
+E:\Chirag\Learning\TrueCoders\repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.dll
+E:\Chirag\Learning\TrueCoders\repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.pdb
+E:\Chirag\Learning\TrueCoders\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chirag\Learning\TrueCoders\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.AssemblyInfoInputs.cache
+E:\Chirag\Learning\TrueCoders\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.AssemblyInfo.cs
+E:\Chirag\Learning\TrueCoders\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.csproj.CoreCompileInputs.cache
+E:\Chirag\Learning\TrueCoders\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.sourcelink.json
+E:\Chirag\Learning\TrueCoders\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.dll
+E:\Chirag\Learning\TrueCoders\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\refint\OperatorExercise.dll
+E:\Chirag\Learning\TrueCoders\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.pdb
+E:\Chirag\Learning\TrueCoders\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.genruntimeconfig.cache
+E:\Chirag\Learning\TrueCoders\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\ref\OperatorExercise.dll
